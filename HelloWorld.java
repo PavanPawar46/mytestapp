@@ -10,5 +10,6 @@ public class HelloWorld
         System.out.println("This is line 1");
         System.out.println("This is line 1");
         System.out.println("This is test");
+        System.out.println("this is test 2");
     }
 }
